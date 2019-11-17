@@ -42,6 +42,6 @@ String input = scan.nextLine();
 效果图：
   
   
-！[效果](https://github.com/huangningye/zifuchuan/blob/master/%E6%95%88%E6%9E%9C.png)
+![效果](https://github.com/huangningye/zifuchuan/blob/master/%E6%95%88%E6%9E%9C.png)
 
 心得：这次的实验不是太难，将字符串和异常处理结构结合在一起。运用了String和try语句块。在第一部分原本想用c语言中的赋值表达式，赋值语句，但和java有些不同，所以只能将要输入的值直接写成StringBuffer的内容。
